@@ -57,7 +57,7 @@ The system is planned to include:
 - Guided manual submission steps
 - Complaint history dashboard
 
-Read more: [Aptech Vision Project](./Apteach%20Vision.md)
+Read more: [Aptech Vision Project](./aptech-vision.md)
 
 ---
 
