@@ -134,4 +134,4 @@ Guided Submission Assistant
         ↓
 User manually submits on official portal
 
-Read more: [Aptech Vision Project](./aptech-vision.md)
+
