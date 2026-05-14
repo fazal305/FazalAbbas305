@@ -2,13 +2,13 @@
 
 ### Frontend Developer in Progress
 
-Software Engineering student focused on building structured, logic-driven systems using JavaScript, VB.NET, HTML/CSS, and Excel automation.
+Software Engineering student learning frontend development by building real projects with HTML, CSS, JavaScript, Bootstrap, jQuery, VB.NET, and Excel automation.
 
-I enjoy building interactive frontend projects, experimenting with DOM manipulation, and creating systems that combine clean UI with practical functionality.
+I enjoy creating beginner-friendly projects that combine clean UI, interactive logic, and practical problem-solving.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -19,20 +19,18 @@ I enjoy building interactive frontend projects, experimenting with DOM manipulat
 
 ---
 
-## 📂 Current Focus
+## Current Focus
 
 - Frontend Development
 - JavaScript DOM Manipulation
-- Responsive UI Design
+- Responsive Web Design
 - Bootstrap Components
-- Logic-Based Systems
+- UI Projects
 - Beginner Automation Tools
 
 ---
 
-## 🚀 Projects
-
-Some projects I’ve built recently:
+## Projects I’m Building
 
 - Interactive Quiz App
 - Dice Roll & Coin Flip Simulator
@@ -40,12 +38,38 @@ Some projects I’ve built recently:
 - Survey Form with Validation
 - DOM Manipulation Practice
 - jQuery Basics Playground
+- Urdu Civic Issue Reporting System
 
 ---
 
-## 🌐 Connect With Me
+## Featured Project Idea
 
-- LinkedIn: https://www.linkedin.com/in/fazal-abbas-4653dg86
+### Urdu Civic Issue Reporting System
+
+A civic-tech project idea designed to help citizens report daily issues such as garbage, electricity, water supply, and road problems using Urdu, Roman Urdu, or English.
+
+The system is planned to include:
+
+- Text and voice complaint input
+- Rule-based issue classification
+- Department suggestion logic
+- Complaint text generation
+- Guided manual submission steps
+- Complaint history dashboard
+
+Read more: [Aptech Vision Project](./Apteach%20Vision.md)
+
+---
+
+## GitHub Stats
+
+![Fazal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazalabbas305&show_icons=true&theme=tokyonight)
+
+---
+
+## Connect With Me
+
+LinkedIn: [Fazal Abbas](https://www.linkedin.com/in/fazal-abbas-4653dg86)
 
 ---
 
