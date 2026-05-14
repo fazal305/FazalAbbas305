@@ -1,76 +1,128 @@
 # Fazal Abbas
 
-### Frontend Developer in Progress
+### Frontend Developer in Progress | Software Engineering Student
 
-Software Engineering student learning frontend development by building real projects with HTML, CSS, JavaScript, Bootstrap, jQuery, VB.NET, and Excel automation.
+Software Engineering student focused on building structured, logic-driven systems using JavaScript, VB.NET, HTML/CSS, Bootstrap, jQuery, and Excel automation.
 
-I enjoy creating beginner-friendly projects that combine clean UI, interactive logic, and practical problem-solving.
-
----
-
-## Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+I enjoy building interactive frontend projects, experimenting with DOM manipulation, and creating beginner-friendly systems that combine clean UI with practical functionality. My work includes frontend applications, algorithm-based systems, automation tools, dashboards, and academic management projects.
 
 ---
 
-## Current Focus
+# 🚀 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,firebase,tailwind,vscode,git,github" />
+</p>
+
+### Additional Technologies
+- VB.NET
+- Excel Automation
+- Data Structures & Algorithms
+- Responsive Web Design
+- DOM Manipulation
+- UI/UX Layout Design
+
+---
+
+# 🎯 Current Focus
 
 - Frontend Development
 - JavaScript DOM Manipulation
-- Responsive Web Design
+- Responsive UI Systems
 - Bootstrap Components
-- UI Projects
-- Beginner Automation Tools
+- Data Structures & Algorithms
+- Excel & Office Automation
+- Civic-Tech & Educational Platforms
 
 ---
 
-## Projects I’m Building
+# 📂 Projects I’m Building
 
+## 🌐 Frontend & JavaScript Projects
 - Interactive Quiz App
 - Dice Roll & Coin Flip Simulator
 - Bootstrap 5 Components Showcase
 - Survey Form with Validation
 - DOM Manipulation Practice
 - jQuery Basics Playground
-- Urdu Civic Issue Reporting System
+- Dynamic To-Do Application
+- Digital Clock System
+- Restaurant Menu Interface
+- Smart Bulb Simulator
+- Responsive News Portal
 
 ---
 
-## Featured Project Idea
-
-### Urdu Civic Issue Reporting System
-
-A civic-tech project idea designed to help citizens report daily issues such as garbage, electricity, water supply, and road problems using Urdu, Roman Urdu, or English.
-
-The system is planned to include:
-
-- Text and voice complaint input
-- Rule-based issue classification
-- Department suggestion logic
-- Complaint text generation
-- Guided manual submission steps
-- Complaint history dashboard
-
-Read more: [Aptech Vision Project](./aptech-vision.md)
+## 💻 VB.NET & Logic-Based Systems
+- Queue Data Structure
+- Stack (LIFO) System
+- Linked List Implementation
+- Linear Search Utility
+- Hash Table System
+- Recursive Logic Models
+- Scientific Calculator
+- Arithmetic Suite
+- Retail Discount Engine
+- Student & Contact Data Types
 
 ---
 
-## GitHub Stats
-
-![Fazal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazalabbas305&show_icons=true&theme=tokyonight)
-
----
-
-## Connect With Me
-
-LinkedIn: [Fazal Abbas](https://www.linkedin.com/in/fazal-abbas-4653dg86)
+## 📊 Excel & Office Automation
+- Attendance Tracker
+- Employee Salary Dashboard
+- Educational Fees Management System
+- Academic Administrative Control Center
+- Cybersecurity Presentation
+- Physics Documentation Project
 
 ---
 
-> Learning by building projects one step at a time.
+# ⭐ Featured Project
+
+## 🇵🇰 Urdu Civic Issue Reporting System
+
+A civic-tech platform designed to help citizens report issues like garbage, electricity failures, water supply problems, and road damage using Urdu, Roman Urdu, or English.
+
+### Planned Features
+- Text & Voice Complaint Input
+- Urdu Speech-to-Text
+- Rule-Based Issue Classification
+- Department Suggestion System
+- Complaint Generator
+- Guided Manual Submission Assistant
+- Complaint History Dashboard
+
+### Planned Tech Stack
+- React.js / Next.js
+- Tailwind CSS
+- Firebase
+- Web Speech API
+
+📄 Read More: [Aptech Vision Project](./aptech-vision.md)
+
+---
+
+# 📈 GitHub Activity
+
+I am actively building and organizing beginner-friendly projects focused on:
+
+- Frontend Development
+- JavaScript DOM Manipulation
+- Bootstrap Components
+- VB.NET Logic Systems
+- Excel Automation
+- Data Structures & Algorithms
+
+Check my pinned repositories below to see my current work.
+
+---
+
+# 🌐 Connect With Me
+
+- LinkedIn: [Fazal Abbas](https://www.linkedin.com/in/fazal-abbas-4653dg86)
+
+---
+
+# 💡 Learning Philosophy
+
+> Learning software engineering by building real projects one step at a time.
