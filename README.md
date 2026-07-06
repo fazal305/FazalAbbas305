@@ -1,128 +1,59 @@
 # Fazal Abbas
 
-### Frontend Developer in Progress | Software Engineering Student
+Frontend developer in progress, software engineering student, and founder of **Fazal Labs**.
 
-Software Engineering student focused on building structured, logic-driven systems using JavaScript, VB.NET, HTML/CSS, Bootstrap, jQuery, and Excel automation.
+I build beginner-to-intermediate web projects, dashboards, automation tools, and logic-based systems while developing a professional portfolio ecosystem around practical software, civic technology, and learning-focused products.
 
-I enjoy building interactive frontend projects, experimenting with DOM manipulation, and creating beginner-friendly systems that combine clean UI with practical functionality. My work includes frontend applications, algorithm-based systems, automation tools, dashboards, and academic management projects.
+## About Me
 
----
+I am focused on building structured, useful, and readable software with HTML, CSS, JavaScript, Bootstrap, jQuery, VB.NET, and Office automation tools. My current work includes frontend applications, admin dashboards, algorithm practice projects, Excel-based systems, and early civic-tech product ideas.
 
-# 🚀 Tech Stack
+My long-term goal is to grow **Fazal Labs** into a portfolio of polished learning projects, browser tools, civic platforms, productivity systems, and design-focused applications.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,firebase,tailwind,vscode,git,github" />
-</p>
+## Current Focus
 
-### Additional Technologies
+- Frontend development
+- JavaScript DOM manipulation
+- Responsive interface design
+- Dashboard and admin panel systems
+- Data structures and algorithms
+- VB.NET logic-based projects
+- Excel and Office automation
+- Civic-tech and education-focused platforms
+
+## Tech Stack
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- jQuery
+- Tailwind CSS basics
+
+### Programming and Logic
+
 - VB.NET
-- Excel Automation
-- Data Structures & Algorithms
-- Responsive Web Design
-- DOM Manipulation
-- UI/UX Layout Design
+- Data structures
+- Algorithms
+- Console applications
+- Rule-based logic systems
 
----
+### Tools and Platforms
 
-# 🎯 Current Focus
+- Git
+- GitHub
+- VS Code
+- Firebase basics
+- Microsoft Excel
+- Microsoft Word
+- Microsoft PowerPoint
 
-- Frontend Development
-- JavaScript DOM Manipulation
-- Responsive UI Systems
-- Bootstrap Components
-- Data Structures & Algorithms
-- Excel & Office Automation
-- Civic-Tech & Educational Platforms
+## Fazal Labs Ecosystem
 
----
+I organize my portfolio under the **Fazal Labs** brand.
 
-# 📂 Projects I’m Building
-
-## 🌐 Frontend & JavaScript Projects
-- Interactive Quiz App
-- Dice Roll & Coin Flip Simulator
-- Bootstrap 5 Components Showcase
-- Survey Form with Validation
-- DOM Manipulation Practice
-- jQuery Basics Playground
-- Dynamic To-Do Application
-- Digital Clock System
-- Restaurant Menu Interface
-- Smart Bulb Simulator
-- Responsive News Portal
-
----
-
-## 💻 VB.NET & Logic-Based Systems
-- Queue Data Structure
-- Stack (LIFO) System
-- Linked List Implementation
-- Linear Search Utility
-- Hash Table System
-- Recursive Logic Models
-- Scientific Calculator
-- Arithmetic Suite
-- Retail Discount Engine
-- Student & Contact Data Types
-
----
-
-## 📊 Excel & Office Automation
-- Attendance Tracker
-- Employee Salary Dashboard
-- Educational Fees Management System
-- Academic Administrative Control Center
-- Cybersecurity Presentation
-- Physics Documentation Project
-
----
-
-# ⭐ Featured Project
-
-## 🇵🇰 Urdu Civic Issue Reporting System
-
-A civic-tech platform designed to help citizens report issues like garbage, electricity failures, water supply problems, and road damage using Urdu, Roman Urdu, or English.
-
-### Planned Features
-- Text & Voice Complaint Input
-- Urdu Speech-to-Text
-- Rule-Based Issue Classification
-- Department Suggestion System
-- Complaint Generator
-- Guided Manual Submission Assistant
-- Complaint History Dashboard
-
-### Planned Tech Stack
-- React.js / Next.js
-- Tailwind CSS
-- Firebase
-- Web Speech API
-
-📄 Read More: [Aptech Vision Project](./aptech-vision.md)
-
----
-
-# 📈 GitHub Activity
-
-I am actively building and organizing beginner-friendly projects focused on:
-
-- Frontend Development
-- JavaScript DOM Manipulation
-- Bootstrap Components
-- VB.NET Logic Systems
-- Excel Automation
-- Data Structures & Algorithms
-
-Check my pinned repositories below to see my current work.
-
----
-
-# 🌐 Connect With Me
-
-- LinkedIn: [Fazal Abbas](https://www.linkedin.com/in/fazal-abbas-4653dg86)
-
----
-
-# 💡 Learning Philosophy
-
-> Learning software engineering by building real projects one step at a time.
+```text
+Fazal Labs
+fazallabs.dev
