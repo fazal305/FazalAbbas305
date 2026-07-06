@@ -101,17 +101,21 @@ Fees management system
 Grade and percentage sheets
 Academic documentation
 Cybersecurity presentation
-Featured Vision Project
-Urdu Civic Issue Reporting System
-A civic-tech platform concept designed to help citizens report local issues such as garbage, electricity failures, water supply problems, and road damage using Urdu, Roman Urdu, or English.
-Planned features:
-Text and voice complaint input
-Urdu and Roman Urdu support
-Rule-based issue classification
-Department suggestion system
-Copy-ready complaint generator
-Guided manual submission assistant
-Complaint history dashboard
+## Featured Project
+
+### Civic Issue Reporting System
+
+A completed civic-tech project designed to help citizens report local issues such as garbage, electricity failures, water supply problems, and road damage using Urdu, Roman Urdu, or English.
+
+Key features:
+
+- Text and voice complaint input
+- Urdu and Roman Urdu support
+- Rule-based issue classification
+- Department suggestion system
+- Copy-ready complaint generator
+- Guided manual submission assistant
+- Complaint history dashboard
 
 Portfolio Direction
 I am gradually improving my repositories so each project has:
