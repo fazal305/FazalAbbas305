@@ -1,6 +1,6 @@
 # Fazal Abbas
 
-Frontend developer in progress, software engineering student, and founder of **Fazal Labs**.
+Frontend developer in progress, software engineering student.
 
 I build beginner-to-intermediate web projects, dashboards, automation tools, and logic-based systems while developing a professional portfolio ecosystem around practical software, civic technology, and learning-focused products.
 
